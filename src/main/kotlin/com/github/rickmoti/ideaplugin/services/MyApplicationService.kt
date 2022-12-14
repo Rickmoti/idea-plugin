@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rickmoti.ideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rickmoti.ideaplugin.MyBundle
 
 class MyApplicationService {
 
